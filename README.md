@@ -10,4 +10,6 @@ python parser.py
 per ottenere la tabella riassuntiva.
 Una rielaborazione del risultato è il file allegato, a cui ho aggiunto i decessi ufficiali al 28 marzo e numero di tamponi al  28 marzo secondo la Protezione Civile (https://github.com/pcm-dpc)
 
-
+Autori:
+Matteo Floris
+Dorian Soru
